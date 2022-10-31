@@ -1,0 +1,6 @@
+C:\Users\maria\OneDrive\Escritorio\bel_algo_final\Algortimos_tpfinal\Integrador\bin\Debug\Integrador.exe.config
+C:\Users\maria\OneDrive\Escritorio\bel_algo_final\Algortimos_tpfinal\Integrador\bin\Debug\Integrador.exe
+C:\Users\maria\OneDrive\Escritorio\bel_algo_final\Algortimos_tpfinal\Integrador\bin\Debug\Integrador.pdb
+C:\Users\maria\OneDrive\Escritorio\bel_algo_final\Algortimos_tpfinal\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+C:\Users\maria\OneDrive\Escritorio\bel_algo_final\Algortimos_tpfinal\Integrador\obj\Debug\Integrador.exe
+C:\Users\maria\OneDrive\Escritorio\bel_algo_final\Algortimos_tpfinal\Integrador\obj\Debug\Integrador.pdb
